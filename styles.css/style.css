@@ -34,6 +34,7 @@ border-color: #006A50;
   justify-content: space-between;
   margin: 0px 219px 0px 219px;
   background-color: #C6E4D6;
+  border-radius: 24px;
 }
 
 .banner-content{
@@ -96,3 +97,227 @@ padding-bottom: 50px;
   font-size:16px
 
 }
+/*  the vision of future start */
+
+.main-container-2{
+  display: flex;
+  gap:24px;
+  
+ }
+.sub-container-1{
+  background-color: rgba(84, 144, 245, 0.2);
+  border-radius: 16px;
+  padding: 32px;
+  
+}
+
+.sub-container-2{
+  background-color: rgb(198, 228, 214);
+  border-radius: 16px; 
+  padding: 16px;
+}
+
+.sub-container-3{
+  background-color: rgb(247, 235, 207);
+  border-radius: 16px; 
+  padding: 16px;
+
+}
+
+.btn-3{
+border-radius: 8px;
+background-color: rgb(84, 144, 245);
+text-align: center;
+font:100;
+border: none;
+font-weight: 600px;
+font-size: 16px;
+color: white;
+padding: 11px 20px 11px 20px;
+
+}
+.btn-3{
+ border-radius: 8px;
+  background-color: rgb(84, 144, 245);
+  text-align: center;
+  font:100;
+  border: none;
+  font-weight: 600px;
+  font-size: 16px;
+  color: white;
+  padding: 11px 20px 11px 20px;
+  
+  }
+.btn-4{
+    border-radius: 8px;
+    background-color: #09A15C;
+    text-align: center;
+    font:100;
+    border: none;
+    font-weight: 600px;
+    font-size: 16px;
+    color: white;
+    padding: 11px 20px 11px 20px;
+    
+    }
+    .btn-5{
+      border-radius: 8px;
+      background-color:#FFC239;
+      text-align: center;
+      font:100;
+      border: none;
+      font-weight: 600px;
+      font-size: 16px;
+      color: white;
+      padding: 11px 20px 11px 20px;
+      
+      }
+      /* quoetion part start  */
+      .name{
+        color:rgba(14, 14, 14, 0.8)
+      }
+    .main-quoetion-container{
+
+    }
+    .sub-quoetion-container{
+      padding: 48px 48px 48px 48px;
+      margin-left: 160px;
+      margin-right: 160px;
+      background-color:white;
+      text-align: start;
+      margin-top: 15px;
+    }
+
+
+
+      /*  Recent News part start */
+     .news-main-container{
+      margin-left: 219px;
+      margin-right: 219px;
+      
+     }
+
+      .hading-main-title{
+        font-size: bold;
+        color: rgba(14, 14, 14, 0.8);
+      }
+     .main-card{
+      display: flex;
+      gap: 32px;
+      border-radius: 24px;
+      background-color: rgb(255, 255, 255);
+      
+     }
+      .parent{
+        list-style: none;
+        display: flex;
+       margin-right: none;
+
+        
+      }
+      .li-2{
+        margin-left: 12px;
+      }
+
+.btn-6{
+  border-radius: 8px;
+  background-color: rgb(0, 106, 80);
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+  padding: 13px 26px 13px 26px;
+  border: none;
+  }
+
+/* secoend card style */
+.main-secoend-card-container{
+  margin-left: 219px;
+  margin-right: 219px;
+}
+
+
+  .card-container{
+   display: flex;
+   gap: 32px;
+   border-radius: 24px;
+   background-color: rgb(255, 255, 255); 
+  }
+
+  /*  Donate Today part start */
+  .donet-container{
+text-align: center;
+  }
+
+  .donet-container-1{
+    display: flex;
+    gap:24px;
+    
+  }
+
+  .sub-donet-container{
+    /* text-align: center; */
+    justify-content: center;
+    border-style: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 20px;
+  
+  }
+
+  .sub-donet-container-1{
+    justify-content: center;
+    border-style: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background-color:rgb(198, 228, 214);
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 20px; 
+  }
+
+  .donet-container-1{
+    margin-top: 32px;
+    margin-left: 104.5px;
+    margin-bottom:32px ;
+    margin-right:104.5px ;
+  }
+
+  .sub-donet-container-2{
+  background-color:rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  color:  rgba(14, 14, 14, 0.35);
+  padding: 20px 422.5px 20px 422.5px;
+  border: 1px solid; 
+  }
+
+/* Subscribe Newsletter part */
+.Subscribe{
+  font-size: 40px;
+}
+.subcribe-container{
+  text-align: center;
+  background-color:#C6E4D6 ;
+  border-radius:24px ;
+  padding: 80px 100px 80px 100px;
+
+}
+
+  .btn7{
+background-color: rgb(255, 255, 255);
+
+  }
+  .email{
+    background-color: rgb(255, 255, 255);
+    padding: 18px 40px 18px 40px;
+    
+  }
+
+  .last-btn{
+    gap:none;
+  }
+
+
