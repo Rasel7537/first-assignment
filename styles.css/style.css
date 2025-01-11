@@ -107,7 +107,7 @@ padding-bottom: 50px;
 .sub-container-1{
   background-color: rgba(84, 144, 245, 0.2);
   border-radius: 16px;
-  padding: 32px;
+  padding: 16px;
   
 }
 
@@ -177,7 +177,8 @@ padding: 11px 20px 11px 20px;
         color:rgba(14, 14, 14, 0.8)
       }
     .main-quoetion-container{
-
+    
+      
     }
     .sub-quoetion-container{
       padding: 48px 48px 48px 48px;
@@ -186,6 +187,9 @@ padding: 11px 20px 11px 20px;
       background-color:white;
       text-align: start;
       margin-top: 15px;
+      background-image: url("../assets/quote-bg.png");
+      background-repeat: no-repeat;
+      
     }
 
 
@@ -319,5 +323,3 @@ background-color: rgb(255, 255, 255);
   .last-btn{
     gap:none;
   }
-
-
